@@ -1,4 +1,3 @@
 # ws_zsh
 
-TODO: Enter the cookbook description here.
-
+Install zsh and oh-my-zsh.
